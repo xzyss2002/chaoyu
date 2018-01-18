@@ -1,0 +1,10 @@
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\bin\Debug\Help screen.exe.config
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\bin\Debug\Help screen.exe
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\bin\Debug\Help screen.pdb
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\bin\Debug\Help screen.xml
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\obj\Debug\Help_screen.Form1.resources
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\obj\Debug\Help_screen.Resources.resources
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\obj\Debug\Help screen.vbproj.GenerateResource.Cache
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\obj\Debug\Help screen.exe
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\obj\Debug\Help screen.xml
+C:\Users\Lurong Chen\Desktop\ICS\Help screen\Help screen\obj\Debug\Help screen.pdb

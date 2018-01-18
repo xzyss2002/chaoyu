@@ -1,0 +1,10 @@
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\bin\Debug\Welcome.exe.config
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\bin\Debug\Welcome.exe
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\bin\Debug\Welcome.pdb
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\bin\Debug\Welcome.xml
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\obj\Debug\Welcome.Form1.resources
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\obj\Debug\Welcome.Resources.resources
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\obj\Debug\Welcome.vbproj.GenerateResource.Cache
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\obj\Debug\Welcome.exe
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\obj\Debug\Welcome.xml
+C:\Users\Lurong Chen\Desktop\ICS\Welcome\Welcome\obj\Debug\Welcome.pdb
